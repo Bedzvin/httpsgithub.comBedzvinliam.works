@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: Calibri, sans-serif ;
+}
+
+hgroup > a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+    line-height: 50px;
+}
+
+#logo {
+    width: 67px;
+    padding: 0 300px;
+}
+
+#signIn {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+
+#search {
+    margin: 10px;
+}
+
+section > a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+a.months {
+    padding: 80px auto;
+}
+
+.whereToGoBox {
+    display: inline;
+}
+
+a.countries {
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+footer > a {
+    text-decoration: none;
+    color: black;
+}
+
+.months {
+    width: 0 200px;
+    height: 100px;
+    border: none;
+    padding: 0 25px;
+    margin: auto;
+    text-decoration: none;
+    color: #000;
+    font-family: Aria, sans-serif;
+}
+a.whereToGoBox > div {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: solid gray 1px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+a.allDestinations {
+    display: block;
+    border: solid orange 2px;
+    margin: auto;
+}
+section {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newDestination {
+    margin: 100px;
+    padding: 300px:
+}
+
+footer > a {
+    margin: 50px;
+    font-family: Arial, sans-serif;
+}
